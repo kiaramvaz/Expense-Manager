@@ -1,0 +1,4 @@
+Main-Class: welcomeFrame
+Class-Path: derby.jar derbyclient.jar derbynet.jar
+
+
